@@ -12,7 +12,7 @@ variable region {
 variable vpc_name {
   description = "VPC name"
   type        = string
-  default     = "hbdemo"
+  default     = "hb"
 }
 
 variable vpc_eip_count {
